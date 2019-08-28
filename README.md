@@ -1,6 +1,6 @@
-# portfolio
+# Match-it
 
-Application which showcase your previous works
+Simple flutter application
 
 ## Getting Started
 
